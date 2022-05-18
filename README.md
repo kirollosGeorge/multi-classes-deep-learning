@@ -1,2 +1,1 @@
-# multi-classes-deep-learning
-deep learning techniques
+# Multi-Class-Weather-Classification-using-deep-learning-architecturesusing-deep-learning-
